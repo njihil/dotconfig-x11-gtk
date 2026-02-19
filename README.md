@@ -1,5 +1,7 @@
 # My Minimalist X11 Rice
 
+### TRIED AND TESTED WITH XFCE 4.20 ON MANJARO 
+
 This "rice" consists of:-
 
 - Conky for the "Mond" style widget in the desktop, 
