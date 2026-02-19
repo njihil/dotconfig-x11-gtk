@@ -1,0 +1,22 @@
+ /* Target the top-level panel window */
+
+#XfcePanelWindow {
+
+    border-radius: 15px; /* Adjust this value for the main panel curve */
+
+}
+
+
+/* Ensure all child widgets and plugins are forced to be square/transparent */
+
+#XfcePanelWindow * {
+
+    border-radius: 0px !important;
+
+    background-color: transparent !important;
+
+    background-image: none !important;
+
+}
+
+
